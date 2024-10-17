@@ -120,4 +120,53 @@ body{
     height: 750px;
     background-image: url("Png.22.avif");
 }
-
+.imgt22{
+    width: 350px;
+    height: 300px;
+    background-image: url("Png.23.avif");
+ }
+.imgt23{
+    width: 650px;
+    height: 400px;
+    background-image: url("Png.24.avif");
+}
+.imgt24{
+    width: 700px;
+    height: 500px;
+    background-image: url("Png.25.avif");
+}
+.imgt25{
+    width: 2500px;
+    height: 1000px;
+    background-image: url("Png.26.avif");
+}
+.imgt26{
+    width: 2500px;
+    height: 1000px;
+    background-image: url("Png.27.avif");
+}
+.imgt27{
+    width: 1500px;
+    height: 800px;
+    background-image: url("Png.28.avif")
+}
+.imgt28{
+    width: 2500px;
+    height: 900px;
+    background-image: url("Png.29.avif");
+}
+.imgt29{
+    width: 550px;
+    height: 500px;
+    background-image: url("Png.30.avif");
+}
+.imgt30{
+    width: 300px;
+    height: 200px;
+    background-image: url("Png.32.avif.jpg");
+}
+.imgt31{
+    width: 500px;
+    height: 350px;
+    background-image: url("Png.31.avif");
+}
